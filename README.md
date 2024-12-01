@@ -1,5 +1,9 @@
 # R Free Resources
 
+[![Black Friday](https://file.labex.io/images/labex-bf24.png)](https://labex.io/pricing)
+
+> [Black Friday 2024 & Cyber Monday 2024 Deals](https://labex.io/pricing) | Best Price of the Year
+
 📈 Dive into data science with our R Studio repository! Packed with a comprehensive collection of free R resources and online tools, this is your go-to place for mastering R programming. Perfect for statisticians, data analysts, and researchers looking to harness the power of R.
 
 ## Resources
